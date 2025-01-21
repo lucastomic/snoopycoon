@@ -1,0 +1,6 @@
+[submodule "snoopycoonback"]
+	path = snoopycoonback
+	url = https://github.com/lucastomic/snoopycoon_back
+[submodule "snoopycoon_back"]
+	path = snoopycoon_back
+	url = https://github.com/lucastomic/snoopycoon_back
